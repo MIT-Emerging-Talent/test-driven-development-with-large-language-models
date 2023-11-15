@@ -69,6 +69,7 @@ Read through the examples:
 
 - `examples/stepped`: This folder contains worked examples of developing with an LLM. Each of the files is a snapshot of a different step the development process. The final product is in one file, not two files like yours should be.
 - `examples/separated`: This folder contains examples of the finished product _after_ you have developed a solution with an LLM. You should notice that the finished code is no different from what you wrote in [Documenting and Testing](https://github.com/MIT-Emerging-Talent/documenting-and-testing), that's on purpose! LLMs may improve your development _process_, but they do not change the need for well tested, documented, and understandable code.
+  - [/examples/separated/add_two_numbers](./examples/separated/add_two_numbers) has a guide video explaining how the code was developed.
 
 ---
 
