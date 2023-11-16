@@ -10,7 +10,8 @@ A suggested workflow to practice when developing a function with LLMs. With expe
    - You can also ask the AI to generate tests for defensive assertions.
 2. Ask the AI to generate a function that will pass your unit tests. Provide your unit tests in your prompt as context.
    - Test the function to make sure it passes. AI isn't always right!
-   - If it fails, explain to the AI which test cases failed then ask it to regenerate the function.
+   - Debug any failing test cases. You can do this manually, and with help from the LLM.
+   - If you still can't debug the function, explain to the AI which test cases failed then ask it to regenerate the function.
    - Repeat until all the tests pass.
 3. Study the passing code to understand it's _strategy_. Code is not maintainable if you don't understand it.
    - You may need to change the function's _implementation_ to understand it, try: renaming variables, adding comments, ... whatever helps!

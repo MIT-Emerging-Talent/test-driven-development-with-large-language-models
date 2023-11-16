@@ -40,6 +40,7 @@ Learning objectives for this workshop are labeled so you can prioritize your stu
 - 🥚 You run your unit tests every time you make any change to your function, making sure they still pass.
 - 🥚 Every time you want to change a function's behavior, you first update the tests before changing the function.
 - 🐣 When a test fails, you can determine if it was the test or the function that is not correct.
+- 🐣 You can collaborate with an LLM to find and fix bugs in your code.
 - 🐣 You can collaborate with an LLM to _refactor_ a program's strategy or implementation without modifying its behavior.
 - 🐣 You can polish and personalize your final code to showcase your understanding instead of just another program generated from an LLM.
 
